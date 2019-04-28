@@ -1,0 +1,29 @@
+{
+  "name": "eat-infinite-burgers",
+  "version": "1.0.0",
+  "description": "this app uses handlebars to eat burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abramwingle/eat-infinite-burgers.git"
+  },
+  "keywords": [
+    "burger",
+    "handlebars",
+    "express"
+  ],
+  "author": "Abram Wingle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abramwingle/eat-infinite-burgers/issues"
+  },
+  "homepage": "https://github.com/abramwingle/eat-infinite-burgers#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.17.1"
+  }
+}
